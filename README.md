@@ -6,7 +6,7 @@ Look at `form.html`. It contains a form for pre-paid parking. It uses [Shoelace]
 
 You will write JavaScript to validate this form. When the "Make Reservation" button is clicked, you should check the values of each field and make sure they are valid. If not, you have to visually alert the user to that fact.
 
-If you look at the [Shoelace docs for form validation](https://shoelace.style/docs/forms.html#validation), you will see that the div element with class "input-field" that surrounds each form label and input is the element to change. You will add the "input-valid" or "input-invalid" class to this div.
+If you look at the [Shoelace docs for form validation](https://shoelace.style/docs/forms.html#validation), you will see that the div element with class "input-field" that surrounds each form label and input is the element to change. You will add the "input-valid" or "input-invalid" class to this div. 
 
 Do this project in steps. Each step adds another layer of difficulty. Make sure and commit your code after each step, if not more often. Do not worry if you cannot complete all the steps!
 
